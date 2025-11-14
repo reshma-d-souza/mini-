@@ -1,0 +1,5 @@
+{
+  "name": "Mall Navigator Pro",
+  "description": "An interactive in-store navigation system that provides a visual layout of a shopping mall, allows users to select their current location and destination, and displays an animated route with optional voice guidance. Features include multi-destination routing, a special shopkeeper mode, and multi-language support.",
+  "requestFramePermissions": []
+}
